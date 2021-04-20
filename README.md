@@ -180,36 +180,34 @@
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(100).pdf" style="text-decoration:none;">What does it mean to understand a neural network?</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(101).pdf" style="text-decoration:none;">Practical and effective sandboxing for non-root users</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(101).pdf" style="text-decoration:none;">Sparse Attentive Backtracking: Temporal Credit Assignment Through Reminding</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(102).pdf" style="text-decoration:none;">Extracting and optimizing formally verified code for systems programming</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(102).pdf" style="text-decoration:none;">Towards Biologically Plausible Deep Learning</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(103).pdf" style="text-decoration:none;">Optimizing MapReduce for Multicore Architectures </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(103).pdf" style="text-decoration:none;">Equilibrium Propagation: Bridging the Gap Between Energy-Based Models and Backpropagation </a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(104).pdf" style="text-decoration:none;">MultiQ: Automated Detection of
-Multiple Bottleneck Capacities Along a Path</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(104).pdf" style="text-decoration:none;">The Distributed Engram</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(105).pdf" style="text-decoration:none;">Towards Multiverse Databases</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(105).pdf" style="text-decoration:none;">Towards Neural Co-Processors for the Brain: Combining Decoding and Encoding in Brain-Computer Interfaces</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(106).pdf" style="text-decoration:none;">Optimizations for Performant Multiverse Databases</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(106).pdf" style="text-decoration:none;">Pyramidal Neuron as Two-Layer Neural Network</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(107).pdf" style="text-decoration:none;">Multiverse Databases for Secure Web Applications</a></li> 
-  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(108).pdf" style="text-decoration:none;">Building web applications on top of encrypted data using Mylar</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(109).pdf" style="text-decoration:none;">Nail: A practical tool for parsing and generating data formats</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(110).pdf" style="text-decoration:none;">NATRON: Overlay Routing to Oblivious Destinations </a></li>  
-   
-<li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(111).pdf" style="text-decoration:none;">Parallel Execution for Conflicting Transactions</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(107).pdf" style="text-decoration:none;">Using computational patients to evaluate illness mechanisms in schizophrenia</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(112).pdf" style="text-decoration:none;">An O(1) algorithm for implementing the LFU
-cache eviction scheme</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(108).pdf" style="text-decoration:none;">A critique of pure learning and what artificial neural networks can learn from animal brains</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(113).pdf" style="text-decoration:none;">Scalable Fault Tolerance for High-Performance Streaming Dataflow</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(109).pdf" style="text-decoration:none;">Neural Networks and Neuroscience -Inspired Computer Vision</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(110).pdf" style="text-decoration:none;">Before and beyond the Wilson-Cowan equations </a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(111).pdf" style="text-decoration:none;"> FixedPointFinder: A Tensorflow toolbox for identifying and characterizing fixed points in recurrent neural networks</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(112).pdf" style="text-decoration:none;">Unsupervised predictive coding models may explain visual brain representation</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(113).pdf" style="text-decoration:none;">Deep learning improved by biological activation functions</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(114).pdf" style="text-decoration:none;">Emergence of grid-like representations by training recurrent neural networks to perform spatial localization</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(115).pdf" style="text-decoration:none;">A neural network trained to predict future video frames mimics critical properties of biological neuronal responses and perception</a></li>  
