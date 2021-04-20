@@ -117,77 +117,68 @@
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(67).pdf" style="text-decoration:none;">Direct Feedback Alignment Provides Learning in Deep Neural Networks</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(68).pdf" style="text-decoration:none;">Finding the needle in high-dimensional haystack: A tutorial on canonical correlation analysis</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(69).pdf" style="text-decoration:none;">The emergence of multiple retinal cell types through efficient coding of natural movies</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(70).pdf" style="text-decoration:none;">Recurrent Convolutional Neural Networks: A Better Model of Biological Object Recognition</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(71).pdf" style="text-decoration:none;">Neuroscience-Inspired Artificial Intelligence</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(72).pdf" style="text-decoration:none;">A Distributed Hash Table</a></li> 
- 
- 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(73).pdf" style="text-decoration:none;">Firmament: fast, centralized cluster scheduling at scale</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(74).pdf" style="text-decoration:none;">Information Flow Control for Standard OS Abstractions</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(75).pdf" style="text-decoration:none;">UIA: A Global Connectivity Architecture
-for Mobile Personal Devices</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(76).pdf" style="text-decoration:none;">Specifying Crash Safety for Storage Systems</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(72).pdf" style="text-decoration:none;">Brains on Beats</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(78).pdf" style="text-decoration:none;">An Approach to Improve the Performance
-of Insertion Sort Algorithm</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(79).pdf" style="text-decoration:none;">Integrity and access control in untrusted content distribution networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(73).pdf" style="text-decoration:none;">ImageNet Classification with Deep Convolutional Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(74).pdf" style="text-decoration:none;">Harnessing behavioral diversity to understand neural computations for cognition</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(75).pdf" style="text-decoration:none;">The neural and cognitive architecture for learning from a small sample</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(76).pdf" style="text-decoration:none;">Category decoding of visual stimuli from human brain activity using a bidirectional recurrent neural network to simulate bidirectional information flows in human visual cortices</a></li>
 
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(80).pdf" style="text-decoration:none;">Waddle: A proven interpreter and test framework
-for a subset of the Go semantics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(77).pdf" style="text-decoration:none;">Are the long–short term memory and convolution neural networks really based on biological systems?</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(81).pdf" style="text-decoration:none;">The Grid Roofnet:
-a Rooftop Ad Hoc Wireless Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(83).pdf" style="text-decoration:none;">Certifying a Crash-safe File System</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(84).pdf" style="text-decoration:none;">An Overview of Approaches Used In Focused Crawlers</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(85).pdf" style="text-decoration:none;">Network Layer Support for Overlay Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(86).pdf" style="text-decoration:none;">Device-Transparent Personal Storage</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(87).pdf" style="text-decoration:none;">Bit-rate Selection in Wireless Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(88).pdf" style="text-decoration:none;">Routing Tradeoffs in Dynamic Peer­to­peer Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(89).pdf" style="text-decoration:none;">Jitk: A Trustworthy In-Kernel Interpreter Infrastructure</a></li>
-  
-  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(90).pdf" style="text-decoration:none;"> Applying Exokernel Principles to Conventional. Operating Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(91).pdf" style="text-decoration:none;">User Authentication and Remote Execution
-Across Administrative Domains</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(92).pdf" style="text-decoration:none;">Karaoke: Distributed Private Messaging
-Immune to Passive Traffic Analysis</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(93).pdf" style="text-decoration:none;"> Improving Integer Security for Systems with KINT</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(94).pdf" style="text-decoration:none;">Ksplice: Automatic Rebootless Kernel Updates</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(95).pdf" style="text-decoration:none;">Smartcrawler: A Two-stage Crawler For Efficient Search Result</a></li>  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(96).pdf" style="text-decoration:none;">Non-scalable locks are dangerous</a></li> 
-  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(97).pdf" style="text-decoration:none;">An Analysis of Linux Scalability to Many Cores</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(78).pdf" style="text-decoration:none;">Deep Learning without Weight Transport</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(79).pdf" style="text-decoration:none;">Fundamental bounds on learning performance in neural circuits</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(98).pdf" style="text-decoration:none;">Software fault isolation with
-API integrity and multi-principal modules</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(80).pdf" style="text-decoration:none;">Interval timing in deep reinforcement learning agents</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(81).pdf" style="text-decoration:none;">Human few-shot learning of compositional instructions</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(82).pdf" style="text-decoration:none;">Theory of cortical function</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(83).pdf" style="text-decoration:none;">Single Cortical Neurons as Deep Artificial Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(84).pdf" style="text-decoration:none;">Hierarchical motor control in mammals and machines</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(85).pdf" style="text-decoration:none;">Towards an integration of deep learning and neuroscience</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(86).pdf" style="text-decoration:none;">Backpropagation through time and the brain</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(87).pdf" style="text-decoration:none;">Activity in perceptual classification networks as a basis for human subjective time perception</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(88).pdf" style="text-decoration:none;">Understanding Trained CNNs by Indexing Neuron Selectivity</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(89).pdf" style="text-decoration:none;">Neural and computational mechanisms of analogical reasoning</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(99).pdf" style="text-decoration:none;">M&M: A Passive Toolkit for Measuring, Correlating, and Tracking Path Characteristics</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(100).pdf" style="text-decoration:none;">Cache Craftiness for Fast Multicore Key-Value Storage</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(90).pdf" style="text-decoration:none;"> If deep learning is the answer, then what is the question?</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(91).pdf" style="text-decoration:none;">Cognitive computational neuroscience</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(92).pdf" style="text-decoration:none;">Simple, biologically informed models, but not convolutional neural networks describe target detection in naturalistic images</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(93).pdf" style="text-decoration:none;"> The Eighty Five Percent Rule for optimal learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(94).pdf" style="text-decoration:none;">A rotation-equivariant convolutional neural network model of primary visual cortex</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(95).pdf" style="text-decoration:none;">Neural network models and deep learning – a primer for biologists</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(96).pdf" style="text-decoration:none;">Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(97).pdf" style="text-decoration:none;">Training Neural Networks with Local Error Signals</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(98).pdf" style="text-decoration:none;">Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(99).pdf" style="text-decoration:none;">Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(100).pdf" style="text-decoration:none;">What does it mean to understand a neural network?</a></li>  
   
  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(101).pdf" style="text-decoration:none;">Practical and effective sandboxing for non-root users</a></li> 
   
