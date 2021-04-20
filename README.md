@@ -211,20 +211,17 @@ cache eviction scheme</a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(113).pdf" style="text-decoration:none;">Scalable Fault Tolerance for High-Performance Streaming Dataflow</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(114).pdf" style="text-decoration:none;">Noria: A New Take on Fast Web Application Backends</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(115).pdf" style="text-decoration:none;">Noria: dynamic, partially-stateful data-flow
-for high-performance web applications</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(114).pdf" style="text-decoration:none;">Emergence of grid-like representations by training recurrent neural networks to perform spatial localization</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(115).pdf" style="text-decoration:none;">A neural network trained to predict future video frames mimics critical properties of biological neuronal responses and perception</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(116).pdf" style="text-decoration:none;">Dynamic, partially-stateful data-flow for
-high-performance Web applications</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(116).pdf" style="text-decoration:none;">Deep convolutional models improve predictions of macaque V1 responses to natural images</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(117).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(117).pdf" style="text-decoration:none;">A Diverse Range of Factors Affect the Nature of Neural Representations Underlying Short-Term Memory</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(118).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(118).pdf" style="text-decoration:none;">Neural Population Control via Deep Image Synthesis</a></li>  
    
-  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(119).pdf" style="text-decoration:none;">Large Scale Unit Testing for Go Programming Language Packages</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(119).pdf" style="text-decoration:none;">Evolving super stimuli for real neurons using deep generative networks</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(120).pdf" style="text-decoration:none;">The Design and Implementation of a
-High-Performance Active Network Node</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Biological-and-Artificial-Neural-Networks-Papers/blob/master/bn(120).pdf" style="text-decoration:none;">Flexible timing by temporal scaling of cortical responses</a></li>  
    
  </ul>
